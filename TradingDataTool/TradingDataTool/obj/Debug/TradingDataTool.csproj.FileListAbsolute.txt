@@ -1,0 +1,10 @@
+C:\TradingDataTool\TradingDataTool\TradingDataTool\bin\Debug\TradingDataTool.exe.config
+C:\TradingDataTool\TradingDataTool\TradingDataTool\bin\Debug\TradingDataTool.exe
+C:\TradingDataTool\TradingDataTool\TradingDataTool\bin\Debug\TradingDataTool.pdb
+C:\TradingDataTool\TradingDataTool\TradingDataTool\obj\Debug\TradingDataTool.csproj.AssemblyReference.cache
+C:\TradingDataTool\TradingDataTool\TradingDataTool\obj\Debug\TradingDataTool.Form1.resources
+C:\TradingDataTool\TradingDataTool\TradingDataTool\obj\Debug\TradingDataTool.Properties.Resources.resources
+C:\TradingDataTool\TradingDataTool\TradingDataTool\obj\Debug\TradingDataTool.csproj.GenerateResource.cache
+C:\TradingDataTool\TradingDataTool\TradingDataTool\obj\Debug\TradingDataTool.csproj.CoreCompileInputs.cache
+C:\TradingDataTool\TradingDataTool\TradingDataTool\obj\Debug\TradingDataTool.exe
+C:\TradingDataTool\TradingDataTool\TradingDataTool\obj\Debug\TradingDataTool.pdb
